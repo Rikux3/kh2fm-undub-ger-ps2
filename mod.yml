@@ -1,6 +1,6 @@
 title: German Undub pack
 originalAuthor: Rikux3
-description: Patches bosses, battle quotes and cutscenes to be in german. JAWOLL!
+description: Patches bosses, battle quotes and cutscenes to be in german. Works with default and german region. JAWOLL!
 assets:
   - name: obj/B_AL020.a.fm
     multi:
